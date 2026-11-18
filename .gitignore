@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+build/
+*/build/
+local.properties
+/.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+app/schemas/
+# 本地内置工具链（JDK/Gradle/Android SDK，约 1.9G，不入库）
+.toolchain/
+Thumbs.db
+
+# 误入的嵌套目录（非项目内容）
+SmartWardrobe/
